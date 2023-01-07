@@ -11,7 +11,7 @@
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color:#5c2370;
-    background-image: url(/img/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-size: cover;
     
 }
